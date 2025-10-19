@@ -62,9 +62,12 @@ section.content h2
 section.content h2 c
 {
 	color: #da1717;
-	-webkit-text-stroke: 0 #fff;
+	-webkit-text-stroke: 0 #fff;		
 }
-section.content h2 span
+section.content h2 d
+{
+	color: #de1cba;
+	-webkit-text-stroke: 0 #f3eaea;
 {
 	position: relative;
 	background: #27d452;
